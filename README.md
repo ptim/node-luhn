@@ -3,6 +3,8 @@ node-luhn [![Build Status](https://secure.travis-ci.org/JamesEggers1/node-luhn.p
 
 A JavaScript module of the luhn algorithm for Credit Card Validation that works with both client-side JavaScript and Node.js 
 
+**This fork is a duplication of [node-luhn/pull/11](https://github.com/JamesEggers1/node-luhn/pull/11) by [rx2x](https://github.com/rx2x), because that PR compares 'unknown repository'.**
+
 ## Installation ##
 
     npm install luhn
